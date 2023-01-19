@@ -13,12 +13,20 @@ html,body {
 	     url('WebFont.svg#webfont') format('svg');
 }
 
+header{
+  padding-top: 80px;
+}
+
+.db{
+  padding-top: 140px;
+}
+
 a{
     color:black;
     
 }
 
-h1{font-family: 'WebFont', 'Raleway', sans-serif; }
+h1{font-family: 'Raleway', sans-serif; }
 
 
 h2{
