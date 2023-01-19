@@ -13,7 +13,7 @@ html,body {
 	     url('WebFont.svg#webfont') format('svg');
 }
 
-header{
+.head{
   padding-top: 80px;
 }
 
